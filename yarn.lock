@@ -207,10 +207,10 @@
   resolved "https://registry.yarnpkg.com/@hutson/parse-repository-url/-/parse-repository-url-3.0.2.tgz#98c23c950a3d9b6c8f0daed06da6c3af06981340"
   integrity sha512-H9XAx3hc0BQHY6l+IFSWHDySypcXsvsuLhgYLUGywmJ5pswRVQJUHpOsobnLYp2ZUaUlKiKDrgWWhosOwAEM8Q==
 
-"@meza/tsconfig-base@^0.0.8":
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/@meza/tsconfig-base/-/tsconfig-base-0.0.8.tgz#241e94faa6289903369c98cff54dbe26db0fcbd2"
-  integrity sha512-9kOz4SH0cBCSTnRvU1jVwKdPtalpS185rCffu2NJSCEtdCKj9UCN3NGK5P9ZizzdhXvz15m/F0Ds4r2t/1y5XA==
+"@meza/tsconfig-base@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@meza/tsconfig-base/-/tsconfig-base-1.1.0.tgz#93f028e303cb620452d24b4f1965ae1f643e4d43"
+  integrity sha512-ScbUVyNon6sR5Vf84Y8ndzHjWQe1zhQK55VN7APS4U6yks9GBnhTm6l+ZuQ0fK9i8bzJ4nImnzZNE+BQ6cE8zw==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
