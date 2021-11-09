@@ -15,11 +15,6 @@ jobs:
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-      - name: Initialize CodeQL
-        uses: github/codeql-action/init@v1
-        with:
-          languages: javascript
-
       - uses: actions/checkout@v2
 
       - name: Cache multiple paths
@@ -51,5 +46,3 @@ jobs:
       - run: yarn
       - run: yarn lint
 
-      - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@v1
